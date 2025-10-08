@@ -2,7 +2,7 @@
 
 This project is a React-based web application designed to manage customer support tickets. It allows users to view available tickets, move them to an "In Progress" status, and finally mark them as "Resolved". The application is fully responsive and uses `react-toastify` for user notifications.
 
-# Live Site - ![Customer Support Zone](https://customersupportzonee.netlify.app/)
+# Live Site - [Customer Support Zone](https://customersupportzonee.netlify.app/)
 
 ---
 
