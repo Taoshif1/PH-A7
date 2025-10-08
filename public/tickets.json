@@ -1,0 +1,137 @@
+[
+    {
+    "id": 1,
+    "title": "Website Login Failure",
+    "description": "Users are unable to log in to their accounts, receiving a '500 Internal Server Error'. Issue started around 9 AM.",
+    "customer": "Gazi Taoshif",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-24T10:00:00Z"
+    },
+    {
+    "id": 2,
+    "title": "Payment Gateway Error",
+    "description": "Credit card payments are failing with the error message 'Transaction Declined'. PayPal is working fine.",
+    "customer": "Mahafuza Moon",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-24T11:30:00Z"
+    },
+    {
+    "id": 3,
+    "title": "Mobile App Crashing on iOS",
+    "description": "The app crashes immediately upon opening on devices running iOS 17. Android version is unaffected.",
+    "customer": "Syed Ahmed Reza",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-24T12:15:00Z"
+    },
+    {
+    "id": 4,
+    "title": "Incorrect Product Description",
+    "description": "The description for product SKU #12345 is showing details for a different item.",
+    "customer": "Mahaboob Alam Badhon",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-09-24T14:00:00Z"
+    },
+    {
+    "id": 5,
+    "title": "Cannot Reset Password",
+    "description": "The 'Forgot Password' link sends an email, but the reset link inside leads to a 404 page.",
+    "customer": "Pias Sadhu",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-24T15:45:00Z"
+    },
+    {
+    "id": 6,
+    "title": "Slow Dashboard Loading",
+    "description": "The main user dashboard is taking over 30 seconds to load all the widgets.",
+    "customer": "Taufiqur Islam",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-23T09:00:00Z"
+    },
+    {
+    "id": 7,
+    "title": "Invoice PDF Download Fails",
+    "description": "Clicking the 'Download PDF' button for invoices results in a corrupted file.",
+    "customer": "Tanjimul Tamim",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-23T11:20:00Z"
+    },
+    {
+    "id": 8,
+    "title": "Search Function Not Returning Results",
+    "description": "Using the main search bar on the homepage returns no results for any query.",
+    "customer": "Jhankar Mahbub",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-23T16:05:00Z"
+    },
+    {
+    "id": 9,
+    "title": "Typo on the About Us Page",
+    "description": "There is a spelling mistake in the second paragraph of the 'About Us' section.",
+    "customer": "Chris Moore",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-09-23T18:00:00Z"
+    },
+    {
+    "id": 10,
+    "title": "Email Notifications Not Being Sent",
+    "description": "Users are not receiving email notifications for new messages or updates.",
+    "customer": "Jessica Taylor",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-22T14:30:00Z"
+    },
+    {
+    "id": 11,
+    "title": "Broken Image Links on Homepage",
+    "description": "Several product images on the main page are not loading and show a broken link icon.",
+    "customer": "Anisul Islam",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-09-25T09:10:00Z"
+    },
+    {
+    "id": 12,
+    "title": "User Profile Picture Upload Fails",
+    "description": "Attempting to upload a new profile picture results in an 'Upload Failed' error with no specific reason.",
+    "customer": "Sumit Saha",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-25T10:30:00Z"
+    },
+    {
+    "id": 13,
+    "title": "Incorrect Shipping Fee Calculation",
+    "description": "The shipping fee for international orders is being calculated as zero, which is incorrect.",
+    "customer": "Shanti Rehman",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-25T11:00:00Z"
+    },
+    {
+    "id": 14,
+    "title": "Feature Request: Dark Mode",
+    "description": "A user has requested the implementation of a dark mode theme for the website to reduce eye strain.",
+    "customer": "Hania Amir",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-09-25T14:00:00Z"
+    },
+    {
+    "id": 15,
+    "title": "Mobile Responsive Issue in Cart",
+    "description": "The shopping cart page does not display correctly on mobile devices; buttons are overlapping.",
+    "customer": "Emily White",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-25T15:25:00Z"
+    }
+]
